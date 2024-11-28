@@ -1,2 +1,4 @@
 user/bin
 test/bin
+user/obj
+test/obj
